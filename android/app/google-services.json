@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99261283441",
+    "firebase_url": "https://save-childern.firebaseio.com",
+    "project_id": "save-childern",
+    "storage_bucket": "save-childern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99261283441:android:89d769c2d8a9aafba1afd0",
+        "android_client_info": {
+          "package_name": "com.example.resresturant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99261283441-nsk31qb6ffbhvle1uvkh5obdse5g8v2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EQtVGiG5iwbe0RkqHupGyql7V54rpeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99261283441-nsk31qb6ffbhvle1uvkh5obdse5g8v2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
